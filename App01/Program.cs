@@ -25,8 +25,17 @@ namespace App01
             Console.WriteLine("");
             Console.WriteLine("===============================================");
             Console.WriteLine("");
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("                      Praticando git              ");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("");
+            Console.WriteLine("===============================================");
+            Console.ReadKey();
+            Console.WriteLine("");
+            Console.WriteLine("===============================================");
+            Console.WriteLine("");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("                      Sera Que vai Chover???           ");
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("");
             Console.WriteLine("===============================================");
