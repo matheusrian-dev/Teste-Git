@@ -39,6 +39,9 @@ namespace App01
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("");
             Console.WriteLine("===============================================");
+            Console.WriteLine("");
+            Console.WriteLine("                      linha aleatoria");
+            Console.WriteLine("===============================================");
             Console.ReadKey();
             Console.ResetColor();
         }
